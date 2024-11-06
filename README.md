@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
 <br />
 
-#### GameEngines, Frameworks & Tools
+#### Frameworks & Tools
 ![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logo=.net&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-reactjs-57c4e2?style=for-the-badge&logo=react&logoColor=white)
